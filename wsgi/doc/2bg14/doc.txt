@@ -1,0 +1,29 @@
+2bg14報告內容
+===
+
+2bg14報告內容
+
+報告摘要
+===
+
+2bg14 報告摘要內容
+
+2bg14 w12工作
+===
+
+W8,W9摘要:
+1.   建立各組  OpenShift  上的  dokuwiki:   
+http://cd2bno14-40123223space.rhcloud.com/doku.php 
+ 
+2.   請將課程教材一  與  課程教材二  整理成中文簡要內容,  並根據協同產品設
+計專案中的說明,  以組為單位完成期中報告: 
+課程教材一:https://copy.com/GEh7IVDbp4oy
+課程教材二:https://copy.com/yxnSpzNnwqPd
+ 
+3.   各組所完成的期中報告原始資料必須送到  Bitbucket  與  OpenShift 
+Dokuwiki  雲端維基網站,  並在網站中提供報告  html  連結與  pdf  文件下
+載. 
+https://bitbucket.org/40123246/14wiki 
+ 
+4.   期中考試與分組報告必選題: 
+坐位分配:https://copy.com/u4zUM3WxxQrR
